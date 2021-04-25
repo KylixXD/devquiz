@@ -4,11 +4,11 @@ import 'package:devquiz/Shared/models/awnser_model.dart';
 
 class QuestionModel {
   final String title;
-  final List<AwnserModel> awnsers;
+  final List<AnswerModel> awnsers;
 
   QuestionModel({required this.title, required this.awnsers})
       : assert(
-          awnsers.length == 4,    
+          awnsers.length == 4,
         );
 
   Map<String, dynamic> toMap() {
@@ -21,11 +21,13 @@ class QuestionModel {
   factory QuestionModel.fromMap(Map<String, dynamic> map) {
     return QuestionModel(
       title: map['title'],
-      awnsers: List<AwnserModel>.from(map['awnsers']?.map((x) => AwnserModel.fromMap(x))),
+      awnsers: List<AnswerModel>.from(
+          map['awnsers']?.map((x) => AnswerModel.fromMap(x))),
     );
   }
 
   String toJson() => json.encode(toMap());
 
-  factory QuestionModel.fromJson(String source) => QuestionModel.fromMap(json.decode(source));
+  factory QuestionModel.fromJson(String source) =>
+      QuestionModel.fromMap(json.decode(source));
 }
