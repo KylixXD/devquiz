@@ -1,16 +1,57 @@
-# devquiz
+# Dev.Quiz_ - Aplicativo Quiz 
 
-A new Flutter project.
+![Flutter - Beautiful native apps in record time](https://flutter.dev/images/flutter-logo-sharing.png)
 
-## Getting Started
+Projeto Desenvolvido durante o 5° evento do **Next Level Week** que foi promovida pela **Rocketseat** em **2021** ,projeto esse que é o desenvolvimento de um aplicativo educativo em formato de Quiz,para o desenvolvimento do  App foi utilizado as linguagens:
 
-This project is a starting point for a Flutter application.
+- ​	Dart;
+- ​	Swift;
 
-A few resources to get you started if this is your first Flutter project:
+- ​	Html
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  #### Funcionamento do App:
+
+  O Aplicativo é dividido por dificuldade:
+
+  ![image-20210425164529227](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164529227.png)
+
+  ![image-20210425164629158](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164629158.png)
+
+  ![image-20210425164645855](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164645855.png)
+
+  ![image-20210425164725174](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164725174.png)
+
+  Por ter nível de dificuldade as perguntas e as respostas iram mudar dependendo da escolha de nível do usuário.
+
+  ####   Screenshots do App📷
+
+  | Tela Inicial do App🤩                                         | Tela Home🏡                                                   | Tela da pergunta errada🚫                                     |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | ![image-20210425165555305](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425165555305.png) | ![image-20210425165842036](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425165842036.png) | ![image-20210425172136956](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172136956.png) |
+  | Tela da pergunta certa✅                                      | Tela da conclusão do Quiz🏆                                   |                                                              |
+  | ![image-20210425172219824](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172219824.png) | ![image-20210425172242697](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172242697.png) |                                                              |
+
+  ### Futuras Implementação para deixar o App mais Completo:
+
+  - [ ] Adicionar a opção de escolha do nível de dificuldade;
+  - [ ] Adicionar mais perguntas e respostas para integrar os niveis de dificuldade;
+  - [ ] Adicionar mais tópicos para o Quiz;
+  - [ ] Adicionar uma tela diferente de acordo com a porcentagem de acerto;
+  - [ ] Adicionar sons para o quiz;
+  - [ ] Adicionar um sistema de Cadastro para o usuário;
+  - [ ] Adicionar CrossPlataform. 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+

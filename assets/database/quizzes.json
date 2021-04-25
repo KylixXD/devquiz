@@ -7,13 +7,13 @@
     "questions": [
     { "title": "Está curtindo o Flutter?", "awnsers": [
         {"title": "Estou curtindo "},
-        {"title": "Mamando Flutter "},
+        {"title": "Amando Flutter "},
         {"title": "Eu gostei em "},
         {"title": "Da para dale ", "isRight": true}]
     },
     { "title": "Está curtindo o Flutter?", "awnsers": [
         {"title": "Estou curtindo "},
-        {"title": "Mamando Flutter "},
+        {"title": "Amando Flutter "},
         {"title": "Eu gostei em "},
         {"title": "Da para dale ", "isRight": true}]
     }]
