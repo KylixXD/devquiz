@@ -17,11 +17,11 @@ Projeto Desenvolvido durante o 5° evento do **Next Level Week** que foi promovi
 
   ![Fácil](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-F%C3%A1cil.png)
 
-  ![image-20210425164629158](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164629158.png)
+  ![Médio](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-M%C3%A9dio.png)
 
-  ![image-20210425164645855](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164645855.png)
+  ![Difícil](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-Dif%C3%ADcil.png)
 
-  ![image-20210425164725174](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164725174.png)
+  ![Perito](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-Perito.png)
 
   Por ter nível de dificuldade as perguntas e as respostas iram mudar dependendo da escolha de nível do usuário.
 
@@ -29,9 +29,9 @@ Projeto Desenvolvido durante o 5° evento do **Next Level Week** que foi promovi
 
   | Tela Inicial do App🤩                                         | Tela Home🏡                                                   | Tela da pergunta errada🚫                                     |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![image-20210425165555305](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425165555305.png) | ![image-20210425165842036](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425165842036.png) | ![image-20210425172136956](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172136956.png) |
+  | ![SplashPage](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-splashpage.png) | ![HomePage](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-HomePage.png) | ![Wrongstate](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-StageErrado.png) |
   | Tela da pergunta certa✅                                      | Tela da conclusão do Quiz🏆                                   |                                                              |
-  | ![image-20210425172219824](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172219824.png) | ![image-20210425172242697](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425172242697.png) |                                                              |
+  | ![Right](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-StageCerto.png) | ![TrophyPage](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-trophystage.png) |                                                              |
 
   ### Futuras Implementação para deixar o App mais Completo:
 
