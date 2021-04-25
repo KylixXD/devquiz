@@ -15,7 +15,7 @@ Projeto Desenvolvido durante o 5° evento do **Next Level Week** que foi promovi
 
   O Aplicativo é dividido por dificuldade:
 
-  ![image-20210425164529227](E:\Codigos_gerais\Flutter\DevQuiz\devquiz\ImagesGit\image-Fácil.png)
+  ![Fácil](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-F%C3%A1cil.png)
 
   ![image-20210425164629158](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210425164629158.png)
 
