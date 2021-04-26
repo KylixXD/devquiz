@@ -23,7 +23,7 @@ Projeto Desenvolvido durante o 5° evento do **Next Level Week** que foi promovi
 
   ![Perito](https://github.com/KylixXD/devquiz/blob/master/ImagesGit/image-Perito.png)
 
-  Por ter nível de dificuldade as perguntas e as respostas iram mudar dependendo da escolha de nível do usuário.
+  Por ter nível de dificuldade as perguntas e as respostas irão mudar dependendo da escolha de nível do usuário.
 
   ####   Screenshots do App📷
 
