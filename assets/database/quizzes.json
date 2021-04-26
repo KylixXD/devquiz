@@ -5,17 +5,18 @@
     "questionAnswered": 1,
     "level": "facil",
     "questions": [
-    { "title": "Está curtindo o Flutter?", "awnsers": [
-        {"title": "Estou curtindo "},
-        {"title": "Amando Flutter "},
-        {"title": "Eu gostei em "},
-        {"title": "Da para dale ", "isRight": true}]
+    { "title": "O que o flutter faz em sua totalidade ?", "awnsers": [
+        {"title": "Kit de desenvolvimento de Interface de usuário (UI toolkit) ","isRight": true},
+        {"title": "Um app que ajuda a gerenciar seus afazeres domésticos  "},
+        {"title": " Possibilita a criação de aplicativos compilados não nativamente "},
+        {"title": "Um kit de desenvolvimento que só faz criação de apps mobiles"} 
+        ]
     },
-    { "title": "Está curtindo o Flutter?", "awnsers": [
-        {"title": "Estou curtindo "},
-        {"title": "Amando Flutter "},
-        {"title": "Eu gostei em "},
-        {"title": "Da para dale ", "isRight": true}]
+    { "title": "O Flutter pode ser compilado em que ?", "awnsers": [
+        {"title": "Android,Ios e Windows "},
+        {"title": "Web e Google Fuchsia "},
+        {"title": "Android,Ios,Windows,Mac,Linux e Web "},
+        {"title": "Android,Ios,Windows,Mac,Linux,Google Fuchsia e Web ", "isRight": true}]
     }]
     }
 ]
